@@ -1,1 +1,7 @@
 
+print ('Hello Git user')
+id = input ('Enter your username')
+text = input ('Enter your favourite word')
+
+print (' It's nice to meet you' id ' of ' text 'town')
+
